@@ -1,1 +1,1 @@
-# <https://Stantsal.github.io/rsschool-cv/cv>
+# <https://Stantsal.github.io/rsschool-cv/>
