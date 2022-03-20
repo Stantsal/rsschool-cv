@@ -1,6 +1,6 @@
 # Pavel Stantsal
 
-![Alt- Foto](https://media-exp1.licdn.com/dms/image/C4E03AQFnhj8Zz1dLEw/profile-displayphoto-shrink_200_200/0/1635444232747?e=1645056000&v=beta&t=tV2aMsD6tRZPbGI-hG9Yh4iJtk-fohf3LtGszjiOEVc)
+![Alt- Photo](https://avatars.githubusercontent.com/u/89770451?s=400&u=1f47df1aeab9d7f0fb0b0ce2faf760b39c45a5c2&v=4)
 
 ## Junior Frontend Developer
 
