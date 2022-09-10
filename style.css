@@ -1,0 +1,169 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Six Caps", sans-serif color #111111;
+  font: inherit;
+  font-size: 20px;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #111111;
+}
+
+.header {
+  padding: 5px 20px;
+  background-color: rgb(240, 241, 241);
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: rgb(240, 241, 241);
+}
+
+.footer a {
+  text-decoration: none;
+}
+
+.my-github {
+  display: flex;
+  align-items: center;
+}
+
+.container {
+  max-width: 1024px;
+  width: 100%;
+  margin: 0 auto;
+  box-shadow: 10px 10px 40px -1px rgb(0 0 0 / 23%);
+}
+
+.nav-list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav-link {
+  padding: 0 10px;
+  line-height: 10px;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.nav-list a {
+  color: #dd7700;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+
+.nav-list a:hover {
+  color: #6016ae;
+}
+
+.nav-list {
+  list-style: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.two-columns {
+  display: flex;
+}
+
+.left-columns {
+  width: 40%;
+}
+
+.right-columns {
+  width: 60%;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: #111111;
+}
+
+h4 {
+  margin-left: 50px;
+}
+
+.section-title,
+h3 {
+  text-align: center;
+  background-color: rgb(240, 241, 241);
+}
+h2 {
+  border-bottom: 2px solid #dd7700;
+  color: #dd7700;
+}
+
+ul {
+  padding: 20;
+  margin-right: 20;
+}
+
+.ul-hardSkills,
+.ul-softSkills,
+.ul-education,
+.ul-languages,
+.ul-workExperience li {
+  list-style-type: square;
+  list-style-position: inside;
+  margin-right: 20px;
+}
+
+li {
+  line-height: 30px;
+  margin: 0 auto;
+}
+
+span {
+  display: inline;
+  margin-left: 10px;
+  vertical-align: top;
+}
+main p {
+  margin-right: 20px;
+  text-align: left;
+  margin-left: 40px;
+  font-size: 20px;
+  font: inherit;
+  font-family: "Merriweather", serif;
+}
+
+q {
+  margin-left: 40px;
+}
+
+pre {
+  margin-left: 40px;
+  margin-top: 10px;
+  margin-right: 20px;
+  font-family: monospace;
+  font-size: 1.2rem;
+  background-color: #cec8c8;
+}
+code {
+  text-align: left;
+}
+
+.my-foto {
+  padding: 10px;
+  margin-left: 100px;
+}
+
+.icons {
+  padding-bottom: 3px;
+}
+
+.ul-contacts li {
+  list-style: none;
+}
